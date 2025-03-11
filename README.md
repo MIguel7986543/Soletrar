@@ -1,0 +1,2 @@
+# Soletrar
+resolução da atividade
