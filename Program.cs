@@ -1,4 +1,5 @@
-﻿Console.ForegroundColor = ConsoleColor.DarkRed;
+﻿Console.Clear();
+Console.ForegroundColor = ConsoleColor.DarkRed;
 Console.WriteLine("Soletrar CADEIRA");
 Console.ResetColor();
 Console.ReadKey();
